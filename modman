@@ -1,0 +1,8 @@
+src/app/code/core/Mage/Captcha/                                     app/code/core/Mage/Captcha/
+src/app/design/adminhtml/default/default/layout/captcha.xml         app/design/adminhtml/default/default/layout/captcha.xml
+src/app/design/adminhtml/default/default/template/captcha/          app/design/adminhtml/default/default/template/captcha/
+src/app/design/frontend/base/default/layout/captcha.xml             app/design/frontend/base/default/layout/captcha.xml
+src/app/design/frontend/base/default/template/captcha/              app/design/frontend/base/default/template/captcha/
+src/app/design/frontend/rwd/default/template/captcha/               app/design/frontend/rwd/default/template/captcha/
+src/app/etc/modules/Mage_Captcha.xml                                app/etc/modules/Mage_Captcha.xml
+src/app/locale/en_US/Mage_Captcha.csv                               app/locale/en_US/Mage_Captcha.csv
